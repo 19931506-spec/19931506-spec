@@ -7,9 +7,13 @@
 🛠️ Intereses:
 
 Desarrollo de software.
+
 Programación y tecnología.
+
 Desarrollo web.
+
 Aprendizaje continuo.
+
 Creación de proyectos personales.
 
 📚 Actualmente estoy aprendiendo y fortaleciendo mis conocimientos en el mundo del desarrollo.

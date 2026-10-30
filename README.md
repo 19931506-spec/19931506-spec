@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 ¡Hola! Soy Darwin Isaac Serrano Serrano un apasionado de la tecnología y el desarrollo de software.
 
-<!--
-**19931506-spec/19931506-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Me interesa aprender nuevas tecnologías, desarrollar soluciones creativas y mejorar constantemente mis habilidades en programación.
 
-Here are some ideas to get you started:
+🚀 Siempre estoy buscando nuevos retos que me permitan crecer como desarrollador y convertir ideas en proyectos reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Intereses:
+
+Desarrollo de software.
+Programación y tecnología.
+Desarrollo web.
+Aprendizaje continuo.
+Creación de proyectos personales.
+
+📚 Actualmente estoy aprendiendo y fortaleciendo mis conocimientos en el mundo del desarrollo.
+
+🤝 ¡Abierto a colaborar en proyectos, compartir conocimientos y aprender de la comunidad!
+
+⭐ El mejor código es aquel que siempre puede mejorar.
